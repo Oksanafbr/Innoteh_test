@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\script\Flight_test_010823
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ee:\script\flight_test_010823\\logfile.log
+e:\script\flight_test_010823\\combined_Flight_test_010823.c
+e:\script\flight_test_010823\\pre_cci.c
